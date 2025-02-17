@@ -1,5 +1,4 @@
-import Login from "./components/Login/Login.jsx";
-
+import Login from "./components/Login/Login.js";
 function App() {
   return <Login />;
 }
